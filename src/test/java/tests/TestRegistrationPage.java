@@ -56,7 +56,7 @@ public class TestRegistrationPage extends TestBase {
 	
 	@AfterClass
 	public void classTearDown() {
-		menuBar.jobSearchPageLink.click();
+		//menuBar.jobSearchPageLink.click();
 	}
 
 }
